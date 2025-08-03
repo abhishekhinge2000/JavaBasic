@@ -1,9 +1,10 @@
+// Arithmetic Program
+
 package sprint2;
 
-import java.lang.invoke.SwitchPoint;
 import  java.util.Scanner;
 
-public class ArithmaticOperation {
+public class ArithmeticOperation {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int num1 = 10;
