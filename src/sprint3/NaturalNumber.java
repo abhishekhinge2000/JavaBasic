@@ -1,5 +1,7 @@
 // write a program that print the natural number between two number ?
 
+// Write a program prints natural numbers between two numbers ?
+
 package sprint3;
 
 import java.util.Scanner;
